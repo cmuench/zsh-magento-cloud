@@ -9,4 +9,4 @@ if ! (( $+commands[magento-cloud] )); then
     return
 fi
 
-source "$HOME/.magento-cloud/shell-config.rc
+source "$HOME/.magento-cloud/shell-config.rc"
