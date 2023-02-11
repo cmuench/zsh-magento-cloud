@@ -3,6 +3,7 @@
 
 # completions
 autoload -Uz compinit
+compinit
 
 export PATH=$PATH:$HOME/.magento-cloud/bin
 
