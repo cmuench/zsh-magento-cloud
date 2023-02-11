@@ -14,5 +14,5 @@ if ! (( $+commands[magento-cloud] )); then
 fi
 
 source "$HOME/.magento-cloud/shell-config.rc"
-source "$HOME/.magento-cloud/autocomplete.sh"
+source "$HOME/.magento-cloud/autocompletion.sh"
 
