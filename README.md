@@ -2,7 +2,7 @@
 A zsh plugin for the Magento Cloud Command Line Interface (magento-cloud CLI) completions.
 
 ## Install
-Using the [:zap: Zap](https://www.zapzsh.org/) minimal zsh plugin manager, add the following to your `.zshrc`
+Using the [:zap: Zap](https://www.zapzsh.com/) minimal zsh plugin manager, add the following to your `.zshrc`
 
 ```sh
 # Install plugin
